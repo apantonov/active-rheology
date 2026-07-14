@@ -3,7 +3,7 @@ Simulation of a tracer in an active chiral bath
 
 # Citation
 If you use our code for your own research, we ask you to cite the following paper:
-R. Goerlich, A.P. Antonov, K.S. Olsen, L. Caprini, C. Scholz, H. Löwen, Y. Roichmann, arXiv:2605.25136 (2026)
+R. Goerlich, A.P. Antonov, K.S. Olsen, L. Caprini, C. Scholz, H. Löwen, Y. Roichman, arXiv:2605.25136 (2026)
 
 # Dependencies
 Our software requires boost, which can be downloaded from the following source:
